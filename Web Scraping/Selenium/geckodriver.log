@@ -1,0 +1,500 @@
+1618425625031	geckodriver	INFO	Listening on 127.0.0.1:62480
+1618425628062	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CAMILO\\AppData\\Local\\Temp\\rust_mozprofilern4ewZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618425630506	Marionette	INFO	Listening on port 62488
+1618425630739	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618425638376	Marionette	INFO	Stopped listening on port 62488
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618425662884	geckodriver	INFO	Listening on 127.0.0.1:62545
+1618425665924	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CAMILO\\AppData\\Local\\Temp\\rust_mozprofileU5LJ2R"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618425667854	Marionette	INFO	Listening on port 62553
+1618425667956	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NetworkError: A network error occurred.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8qpfikmf4dwuft82am3yfq3tx, line 4290: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8qpfikmf4dwuft82am3yfq3tx, line 4290: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4zjp40h2ahqejb87c910ve66o, line 7230: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4zjp40h2ahqejb87c910ve66o, line 7230: unreachable code after return statement
+1618425776184	Marionette	INFO	Stopped listening on port 62553
+1618425789808	geckodriver	INFO	Listening on 127.0.0.1:62695
+1618425792861	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CAMILO\\AppData\\Local\\Temp\\rust_mozprofilefLeVSW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618425794864	Marionette	INFO	Listening on port 62705
+1618425794913	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+1618426231582	Marionette	INFO	Stopped listening on port 62705
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618426233806	geckodriver	INFO	Listening on 127.0.0.1:62871
+1618426236877	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CAMILO\\AppData\\Local\\Temp\\rust_mozprofileoGYuLW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618426238790	Marionette	INFO	Listening on port 62879
+1618426238924	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+1618426319231	Marionette	INFO	Stopped listening on port 62879
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618426320357	geckodriver	INFO	Listening on 127.0.0.1:62954
+1618426323414	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CAMILO\\AppData\\Local\\Temp\\rust_mozprofileYlJqWM"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618426325351	Marionette	INFO	Listening on port 62963
+1618426325449	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+1618426428374	Marionette	INFO	Stopped listening on port 62963
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+6c5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618426357100	Marionette	INFO	Listening on port 63029
+1618426357174	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1618426363882	Marionette	INFO	Stopped listening on port 63029
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618426430025	geckodriver	INFO	Listening on 127.0.0.1:63103
+1618426433089	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CAMILO\\AppData\\Local\\Temp\\rust_mozprofile0Z2sY8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618426435103	Marionette	INFO	Listening on port 63111
+1618426435145	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618426588909	Marionette	INFO	Stopped listening on port 63111
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CAMILO\\AppData\\Local\\Temp\\rust_mozprofileiskiyq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618426587605	Marionette	INFO	Listening on port 63199
+1618426587770	Marionette	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: TypeError: browsingContextFn().currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:331:29
+
+1618426594123	Marionette	INFO	Stopped listening on port 63199
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618426604533	geckodriver	INFO	Listening on 127.0.0.1:63256
+1618426607588	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CAMILO\\AppData\\Local\\Temp\\rust_mozprofileq6UkQv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618426609510	Marionette	INFO	Listening on port 63264
+1618426609631	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8qpfikmf4dwuft82am3yfq3tx, line 4290: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8qpfikmf4dwuft82am3yfq3tx, line 4290: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8qpfikmf4dwuft82am3yfq3tx, line 4290: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8qpfikmf4dwuft82am3yfq3tx, line 4290: unreachable code after return statement
+1618426652013	Marionette	INFO	Stopped listening on port 63264
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618426655413	geckodriver	INFO	Listening on 127.0.0.1:63378
+1618426658451	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CAMILO\\AppData\\Local\\Temp\\rust_mozprofile8talel"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618426660514	Marionette	INFO	Listening on port 63386
+1618426660611	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8qpfikmf4dwuft82am3yfq3tx, line 4290: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8qpfikmf4dwuft82am3yfq3tx, line 4290: unreachable code after return statement
+console.error: "Error while calling actor 'pagestyle's method 'isPositionEditable'" "getComputedStyle(...) is null"
+console.error: "getDefinedGeometryProperties@resource://devtools/server/actors/highlighters/geometry-editor.js:173:40\nisPositionEditable@resource://devtools/server/actors/page-style.js:608:47\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "style is null"
+console.error: "getLayout@resource://devtools/server/actors/page-style.js:1039:7\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: (new Error("Protocol error (TypeError): getComputedStyle(...) is null from: server0.conn0.child3/pagestyle24 (resource://devtools/server/actors/highlighters/geometry-editor.js:173:40)", "resource://devtools/shared/protocol/Front.js", 361))
+console.error: (new Error("Protocol error (TypeError): style is null from: server0.conn0.child3/pagestyle24 (resource://devtools/server/actors/page-style.js:1039:7)", "resource://devtools/shared/protocol/Front.js", 361))
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8qpfikmf4dwuft82am3yfq3tx, line 4290: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8qpfikmf4dwuft82am3yfq3tx, line 4290: unreachable code after return statement
+console.error: "Error while calling actor 'pagestyle's method 'getUsedFontFaces'" "can't access dead object"
+console.error: "getUsedFontFaces@resource://devtools/server/actors/page-style.js:369:29\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: "Could not get the list of font families" (new Error("Protocol error (TypeError): can't access dead object from: server0.conn0.child3/pagestyle24 (resource://devtools/server/actors/page-style.js:369:29)", "resource://devtools/shared/protocol/Front.js", 361))
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "can't access dead object"
+console.error: "getLayout@resource://devtools/server/actors/page-style.js:1009:24\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: (new Error("Protocol error (TypeError): can't access dead object from: server0.conn0.child3/pagestyle24 (resource://devtools/server/actors/page-style.js:1009:24)", "resource://devtools/shared/protocol/Front.js", 361))
+1618426796956	Marionette	INFO	Stopped listening on port 63386
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618426802800	geckodriver	INFO	Listening on 127.0.0.1:63490
+1618426805882	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CAMILO\\AppData\\Local\\Temp\\rust_mozprofile1Akg7m"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618426807895	Marionette	INFO	Listening on port 63498
+1618426807930	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618427096193	Marionette	INFO	Stopped listening on port 63498
+8426845437	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CAMILO\\AppData\\Local\\Temp\\rust_mozprofileh3mCaJ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618426847472	Marionette	INFO	Listening on port 63565
+1618426847490	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+1618426922284	Marionette	INFO	Stopped listening on port 63565
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618426924573	geckodriver	INFO	Listening on 127.0.0.1:63642
+1618426927591	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CAMILO\\AppData\\Local\\Temp\\rust_mozprofileIPu58F"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618426929622	Marionette	INFO	Listening on port 63650
+1618426929636	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/bpob6bbc8gauqn4cct96xaqpf, line 1: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8qpfikmf4dwuft82am3yfq3tx, line 4290: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8qpfikmf4dwuft82am3yfq3tx, line 4290: unreachable code after return statement
+1618427097216	Marionette	INFO	Stopped listening on port 63650
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CAMILO\\AppData\\Local\\Temp\\rust_mozprofile6r77Bb"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618427008075	Marionette	INFO	Listening on port 63790
+1618427008132	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/bpob6bbc8gauqn4cct96xaqpf, line 1: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8qpfikmf4dwuft82am3yfq3tx, line 4290: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8qpfikmf4dwuft82am3yfq3tx, line 4290: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4zjp40h2ahqejb87c910ve66o, line 7230: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4zjp40h2ahqejb87c910ve66o, line 7230: unreachable code after return statement
+1618427084477	Marionette	INFO	Stopped listening on port 63790
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618427087169	geckodriver	INFO	Listening on 127.0.0.1:63918
+1618427090210	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CAMILO\\AppData\\Local\\Temp\\rust_mozprofileetYtyU"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618427092310	Marionette	INFO	Listening on port 63926
+1618427092380	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/bpob6bbc8gauqn4cct96xaqpf, line 1: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8qpfikmf4dwuft82am3yfq3tx, line 4290: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8qpfikmf4dwuft82am3yfq3tx, line 4290: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4zjp40h2ahqejb87c910ve66o, line 7230: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4zjp40h2ahqejb87c910ve66o, line 7230: unreachable code after return statement
+1618427360181	Marionette	INFO	Stopped listening on port 63926
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CAMILO\\AppData\\Local\\Temp\\rust_mozprofiletXzm5o"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618427198689	Marionette	INFO	Listening on port 64072
+1618427198723	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/bpob6bbc8gauqn4cct96xaqpf, line 1: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8qpfikmf4dwuft82am3yfq3tx, line 4290: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8qpfikmf4dwuft82am3yfq3tx, line 4290: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4zjp40h2ahqejb87c910ve66o, line 7230: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4zjp40h2ahqejb87c910ve66o, line 7230: unreachable code after return statement
+1618427361062	Marionette	INFO	Stopped listening on port 64072
+1618427369373	geckodriver	INFO	Listening on 127.0.0.1:64220
+1618427372441	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CAMILO\\AppData\\Local\\Temp\\rust_mozprofiledwAPWo"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618427374291	Marionette	INFO	Listening on port 64229
+1618427374476	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/bpob6bbc8gauqn4cct96xaqpf, line 1: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8qpfikmf4dwuft82am3yfq3tx, line 4290: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8qpfikmf4dwuft82am3yfq3tx, line 4290: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4zjp40h2ahqejb87c910ve66o, line 7230: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4zjp40h2ahqejb87c910ve66o, line 7230: unreachable code after return statement
+1618427631644	Marionette	INFO	Stopped listening on port 64229
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618427652010	geckodriver	INFO	Listening on 127.0.0.1:64423
+1618427655070	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CAMILO\\AppData\\Local\\Temp\\rust_mozprofiledwkdTX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618427657027	Marionette	INFO	Listening on port 64431
+1618427657119	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/bpob6bbc8gauqn4cct96xaqpf, line 1: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8qpfikmf4dwuft82am3yfq3tx, line 4290: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8qpfikmf4dwuft82am3yfq3tx, line 4290: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/80emui4l0kckyy31n06ji3nqa, line 7230: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/80emui4l0kckyy31n06ji3nqa, line 7230: unreachable code after return statement
+1618427728329	Marionette	INFO	Stopped listening on port 64431
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CAMILO\\AppData\\Local\\Temp\\rust_mozprofileJgL9Tn"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618427724859	Marionette	INFO	Listening on port 64564
+1618427724924	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/bpob6bbc8gauqn4cct96xaqpf, line 1: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8qpfikmf4dwuft82am3yfq3tx, line 4290: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8qpfikmf4dwuft82am3yfq3tx, line 4290: unreachable code after return statement
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000D,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1618427729221	Marionette	INFO	Stopped listening on port 64564
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618427733367	geckodriver	INFO	Listening on 127.0.0.1:64629
+1618427736411	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CAMILO\\AppData\\Local\\Temp\\rust_mozprofile5mtefH"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618427738370	Marionette	INFO	Listening on port 64638
+1618427738453	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/bpob6bbc8gauqn4cct96xaqpf, line 1: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8qpfikmf4dwuft82am3yfq3tx, line 4290: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8qpfikmf4dwuft82am3yfq3tx, line 4290: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/80emui4l0kckyy31n06ji3nqa, line 7230: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/80emui4l0kckyy31n06ji3nqa, line 7230: unreachable code after return statement
+1618427881210	Marionette	INFO	Stopped listening on port 64638
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618427893637	geckodriver	INFO	Listening on 127.0.0.1:64795
+1618427896675	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CAMILO\\AppData\\Local\\Temp\\rust_mozprofilerafaOY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618427898554	Marionette	INFO	Listening on port 64803
+1618427898733	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/bpob6bbc8gauqn4cct96xaqpf, line 1: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8qpfikmf4dwuft82am3yfq3tx, line 4290: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8qpfikmf4dwuft82am3yfq3tx, line 4290: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 571: TypeError: this.contentWindow is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/80emui4l0kckyy31n06ji3nqa, line 7230: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/80emui4l0kckyy31n06ji3nqa, line 7230: unreachable code after return statement
+JavaScript error: , line 0: NetworkError: A network error occurred.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+1618429593133	Marionette	INFO	Stopped listening on port 64803
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+t error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/80emui4l0kckyy31n06ji3nqa, line 7230: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/80emui4l0kckyy31n06ji3nqa, line 7230: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1618429593893	Marionette	INFO	Stopped listening on port 65020
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+\Temp\\rust_mozprofilegMad1V"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618428322812	Marionette	INFO	Listening on port 65202
+1618428322860	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/bpob6bbc8gauqn4cct96xaqpf, line 1: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8qpfikmf4dwuft82am3yfq3tx, line 4290: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8qpfikmf4dwuft82am3yfq3tx, line 4290: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/80emui4l0kckyy31n06ji3nqa, line 7230: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/80emui4l0kckyy31n06ji3nqa, line 7230: unreachable code after return statement
+JavaScript error: , line 0: NetworkError: A network error occurred.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 571: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 227: InvalidStateError: JSWindowActorChild.document getter: Cannot access property 'document' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+1618429591080	Marionette	INFO	Stopped listening on port 65202
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618429676917	geckodriver	INFO	Listening on 127.0.0.1:49166
+1618429679975	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CAMILO\\AppData\\Local\\Temp\\rust_mozprofileKFpUgf"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618429681854	Marionette	INFO	Listening on port 49175
+1618429682004	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/bpob6bbc8gauqn4cct96xaqpf, line 1: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8qpfikmf4dwuft82am3yfq3tx, line 4290: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8qpfikmf4dwuft82am3yfq3tx, line 4290: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 571: TypeError: this.contentWindow is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/80emui4l0kckyy31n06ji3nqa, line 7230: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/80emui4l0kckyy31n06ji3nqa, line 7230: unreachable code after return statement
+1618429726494	Marionette	INFO	Stopped listening on port 49175
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618429842114	geckodriver	INFO	Listening on 127.0.0.1:49331
+1618429845181	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CAMILO\\AppData\\Local\\Temp\\rust_mozprofileyGVBZ7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618429847263	Marionette	INFO	Listening on port 49340
+1618429847331	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/bpob6bbc8gauqn4cct96xaqpf, line 1: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8qpfikmf4dwuft82am3yfq3tx, line 4290: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8qpfikmf4dwuft82am3yfq3tx, line 4290: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/80emui4l0kckyy31n06ji3nqa, line 7230: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/80emui4l0kckyy31n06ji3nqa, line 7230: unreachable code after return statement
+1618430222860	Marionette	INFO	Stopped listening on port 49340
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CAMILO\\AppData\\Local\\Temp\\rust_mozprofileEAgJsR"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618429975117	Marionette	INFO	Listening on port 49521
+1618429975146	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/bpob6bbc8gauqn4cct96xaqpf, line 1: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8qpfikmf4dwuft82am3yfq3tx, line 4290: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8qpfikmf4dwuft82am3yfq3tx, line 4290: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 571: TypeError: this.contentWindow is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/80emui4l0kckyy31n06ji3nqa, line 7230: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/80emui4l0kckyy31n06ji3nqa, line 7230: unreachable code after return statement
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+1618431015273	Marionette	INFO	Stopped listening on port 49521
+cdn.com/sc/h/8qpfikmf4dwuft82am3yfq3tx, line 4290: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 571: TypeError: this.contentWindow is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/80emui4l0kckyy31n06ji3nqa, line 7230: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/80emui4l0kckyy31n06ji3nqa, line 7230: unreachable code after return statement
+1618430397278	Marionette	INFO	Stopped listening on port 49692
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CAMILO\\AppData\\Local\\Temp\\rust_mozprofilekADR6f"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618430350794	Marionette	INFO	Listening on port 49861
+1618430350988	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/bpob6bbc8gauqn4cct96xaqpf, line 1: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8qpfikmf4dwuft82am3yfq3tx, line 4290: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8qpfikmf4dwuft82am3yfq3tx, line 4290: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/80emui4l0kckyy31n06ji3nqa, line 7230: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/80emui4l0kckyy31n06ji3nqa, line 7230: unreachable code after return statement
+1618430398093	Marionette	INFO	Stopped listening on port 49861
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618430442208	geckodriver	INFO	Listening on 127.0.0.1:50009
+1618430445256	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CAMILO\\AppData\\Local\\Temp\\rust_mozprofilenZR49V"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618430447218	Marionette	INFO	Listening on port 50018
+1618430447300	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/bpob6bbc8gauqn4cct96xaqpf, line 1: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1hso9rb1wlen56ct4cq1ko54j, line 4290: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1hso9rb1wlen56ct4cq1ko54j, line 4290: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/80emui4l0kckyy31n06ji3nqa, line 7230: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/80emui4l0kckyy31n06ji3nqa, line 7230: unreachable code after return statement
+1618430561136	Marionette	INFO	Stopped listening on port 50018
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618430563287	geckodriver	INFO	Listening on 127.0.0.1:50173
+1618430566321	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CAMILO\\AppData\\Local\\Temp\\rust_mozprofileYyz82s"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618430568316	Marionette	INFO	Listening on port 50181
+1618430568371	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/bpob6bbc8gauqn4cct96xaqpf, line 1: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8qpfikmf4dwuft82am3yfq3tx, line 4290: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8qpfikmf4dwuft82am3yfq3tx, line 4290: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/80emui4l0kckyy31n06ji3nqa, line 7230: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/80emui4l0kckyy31n06ji3nqa, line 7230: unreachable code after return statement
+Qt: Untested Windows version 10.0 detected!
+Qt: Untested Windows version 10.0 detected!
+Qt: Untested Windows version 10.0 detected!
+Qt: Untested Windows version 10.0 detected!
+Qt: Untested Windows version 10.0 detected!
+Qt: Untested Windows version 10.0 detected!
+Qt: Untested Windows version 10.0 detected!
+Qt: Untested Windows version 10.0 detected!
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 571: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 227: InvalidStateError: JSWindowActorChild.document getter: Cannot access property 'document' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript warning: https://static-exp1.licdn.com/sc/h/80emui4l0kckyy31n06ji3nqa, line 7230: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/80emui4l0kckyy31n06ji3nqa, line 7230: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/80emui4l0kckyy31n06ji3nqa, line 7230: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/80emui4l0kckyy31n06ji3nqa, line 7230: unreachable code after return statement
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 571: TypeError: this.contentWindow is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/80emui4l0kckyy31n06ji3nqa, line 7230: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/80emui4l0kckyy31n06ji3nqa, line 7230: unreachable code after return statement
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+1618431014286	Marionette	INFO	Stopped listening on port 50181
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618431156656	geckodriver	INFO	Listening on 127.0.0.1:50417
+1618431159689	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CAMILO\\AppData\\Local\\Temp\\rust_mozprofile9QBZoy"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618431161830	Marionette	INFO	Listening on port 50425
+1618431161846	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/bpob6bbc8gauqn4cct96xaqpf, line 1: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8qpfikmf4dwuft82am3yfq3tx, line 4290: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8qpfikmf4dwuft82am3yfq3tx, line 4290: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/80emui4l0kckyy31n06ji3nqa, line 7230: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/80emui4l0kckyy31n06ji3nqa, line 7230: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 455: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 571: TypeError: this.contentWindow is null
+JavaScript error: , line 0: NetworkError: A network error occurred.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/80emui4l0kckyy31n06ji3nqa, line 7230: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/80emui4l0kckyy31n06ji3nqa, line 7230: unreachable code after return statement
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+console.warn: "IGNORED REDUX ACTION:" "AUTOCOMPLETE_CLEAR"
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 301: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 571: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 227: InvalidStateError: JSWindowActorChild.document getter: Cannot access property 'document' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript warning: https://static-exp1.licdn.com/sc/h/80emui4l0kckyy31n06ji3nqa, line 7230: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/80emui4l0kckyy31n06ji3nqa, line 7230: unreachable code after return statement
+1618434029083	Marionette	INFO	Stopped listening on port 50425
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
