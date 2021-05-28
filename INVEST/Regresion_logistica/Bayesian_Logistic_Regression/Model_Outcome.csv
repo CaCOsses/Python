@@ -1,0 +1,4 @@
+Stock,Observation Period,Model Accuracy on Training Data,Model Accuracy on Test Data,True Positives,False Positives,False Negative,True Negative
+AMZN,Five_Day_Observation_Outcome,0.5923741310301243,0.573715248525695,211,333,173,470
+FB,Five_Day_Observation_Outcome,0.6537122969837587,0.5787037037037037,81,111,71,169
+MSFT,Five_Day_Observation_Outcome,0.5796232876712328,0.5622146118721462,274,535,232,711
